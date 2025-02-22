@@ -20,5 +20,5 @@ I'm an undergraduate student passionate about low-level programming and systems 
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=alecmucz&show_icons=true&theme=default" alt="GitHub Stats">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecmucz&layout=compact&langs_count=4&hide=jupyter%20notebook" alt="Top Languages">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecmucz&layout=compact&langs_count=4&hide=jupyter%20notebook,cmake" alt="Top Languages">
 </div>
