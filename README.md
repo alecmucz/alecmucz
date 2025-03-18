@@ -5,9 +5,8 @@ I'm an undergraduate student passionate about low-level programming and systems 
 
 ### 🔭 Current Focus
 - 🛠️ **Working on**:  
-  [Chip 8 Emulator](https://github.com/alecmucz/Chip8) — My first project and emulator written in Rust.  
-  [Build Your Own Interpreter](https://app.codecrafters.io/courses/interpreter/introduction) - My introduction into the design and creation of programming languages.
-- 📚 **Exploring**: Rust programming and the inner workings of low-level applications and CPU architecture.
+  [M.I.P.S Recompiler](https://github.com/alecmucz/MIPS_Recompiler) — A M.I.P.S Recompiler, translating low level assmebly instructions into high level human readable code.  
+- 📚 **Exploring**: C programming and the inner workings of low-level applications and CPU architecture.
 - 🌱 **Goals**: 
   - Dive deeper into systems programming.  
   - Build my knowledge of operating systems, compilers, and networking.  
