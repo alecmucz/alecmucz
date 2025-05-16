@@ -15,7 +15,7 @@ I'm an undergraduate student passionate about low-level programming and systems 
  
 ### 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/alec-muczynski-104034288)
-- [Portfolio](https://www.alecmucz.github.io)
+- [Portfolio](https://alecmucz.github.io)
 ---
 
 <div style="display: flex; align-items: center; justify-content: center;">
