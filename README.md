@@ -5,16 +5,17 @@ I'm an undergraduate student passionate about low-level programming and systems 
 
 ### 🔭 Current Focus
 - 🛠️ **Working on**:  
-  [M.I.P.S Recompiler](https://github.com/alecmucz/MIPS_Recompiler) — A M.I.P.S Recompiler, translating low level assmebly instructions into high level human readable code.  
-- 📚 **Exploring**: C programming and the inner workings of low-level applications and CPU architecture.
+  [OSTEP Projects](https://github.com/alecmucz/ostep-projects) — Currently reading through **Operating Systems : Three Easy Peices** and working through the projects for the book. 
+- 📚 **Exploring**:
+  - Operating Systems : Three Easy Peices
+  - C++ Primer
 - 🌱 **Goals**: 
   - Dive deeper into systems programming.  
   - Build my knowledge of operating systems, compilers, and networking.  
  
-
 ### 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/alec-muczynski-104034288)
-
+- [Portfolio](https://www.alecmucz.github.io)
 ---
 
 <div style="display: flex; align-items: center; justify-content: center;">
