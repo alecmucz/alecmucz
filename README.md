@@ -3,15 +3,13 @@
 ## Hello there, I'm Alec 👋  
 I'm an undergraduate student passionate about low-level programming and systems development. I enjoy working on challenging projects that deepen my understanding of operating systems, compilers, and networks.
 
-### 🔭 Current Focus
-- 🛠️ **Working on**:  
-  [OSTEP Projects](https://github.com/alecmucz/ostep-projects) — Currently reading through **Operating Systems : Three Easy Peices** and working through the projects for the book. 
-- 📚 **Exploring**:
-  - Operating Systems : Three Easy Peices
-  - C++ Primer
-- 🌱 **Goals**: 
+### Current Focus
+- **Goals**: 
   - Dive deeper into systems programming.  
-  - Build my knowledge of operating systems, compilers, and networking.  
+  - Build my knowledge of operating systems, compilers, and networking. 
+- **Exploring**:
+  - Computer Systems : A Programmer's Perspective
+  - Modern C
  
 ### 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/alec-muczynski-104034288)
