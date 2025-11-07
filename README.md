@@ -4,19 +4,13 @@
 I'm an undergraduate student passionate about low-level programming and systems development. I enjoy working on challenging projects that deepen my understanding of operating systems, compilers, and networks.
 
 ### Current Focus
-- **Goals**: 
-  - Dive deeper into systems programming.  
-  - Build my knowledge of operating systems, compilers, and networking. 
+- **Projects**:
+  - Neuro-Vectorizer clone utilizing IR2VEC for code embeddings (ie: Researching Machine Learning based Compiler optimizations)
+  - Network Simulator
 - **Exploring**:
-  - Computer Systems : A Programmer's Perspective
-  - Modern C
- 
+  - Artificial Intelligence : A Modern Approach
+  - Computer Systems : A Programmer's Perspective 
 ### 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/alec-muczynski-104034288)
 - [Portfolio](https://alecmucz.github.io)
 ---
-
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=alecmucz&show_icons=true&theme=default" alt="GitHub Stats">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecmucz&layout=compact&langs_count=4&hide=jupyter%20notebook,cmake" alt="Top Languages">
-</div>
