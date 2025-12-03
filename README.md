@@ -4,8 +4,8 @@
 I'm an undergraduate student passionate about low-level systems and application development. My current work explores on bridging systems programming and machine learning, exploring how reinforcement learning can guide compiler optimizations.
 
 ### Ongoing Projects/Research
-- **MLIR-Vectorizer**:
-  - Neuro-Vectorizer clone utilizing an MLIR framework as well as additional enhancements which have come out since.
+- **Compiler Architecture for Deep Learning: A Survey on System Design**:
+  - A survey paper analyzes the current ecosystem of deep learning compilers such as PyTorch, TensorFlow, and upcoming ecosystems like Mojo/MAX.
 - **Network Simulator**:
   - Interactive Network Visualization tool for simulating and analyzing packet flow throughout a (custom/predefined) topology.
 - **Exploring**:
