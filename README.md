@@ -2,7 +2,7 @@
 
 ## Hey, I'm Alec
 
-Recent graduate with a passion for low-level systems and full-stack development. Currently building trading infrastructure from the ground up — designing low-latency matching engines in C++, middleware services in Java, and modern frontends in React. Interested in how high-performance systems are architected and optimized at scale.
+Recent graduate with a passion for low-level systems and full-stack development. Currently working on trading infrastructure that spans C++ for the matching engine, Java for the backend services, and React for the frontend. Interested in how high-performance systems are architected and optimized at scale.
 
 ### What I'm Building
 
