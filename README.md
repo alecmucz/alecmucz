@@ -1,23 +1,23 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:52fa5a,100:4dfcff&height=150&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
-## Hello there, I'm Alec
-I'm an undergraduate student passionate about low-level systems and application development. My current work explores on bridging systems programming and machine learning, exploring how reinforcement learning can guide compiler optimizations.
+## Hey, I'm Alec
 
-### Ongoing Projects/Research
-- **Compiler Architecture for Deep Learning: A Survey on System Design**:
-  - A survey paper analyzes the current ecosystem of deep learning compilers such as PyTorch, TensorFlow, and upcoming ecosystems like Mojo/MAX.
-- **Network Simulator**:
-  - Interactive Network Visualization tool for simulating and analyzing packet flow throughout a (custom/predefined) topology.
-- **Exploring**:
-  - Artificial Intelligence : A Modern Approach
-  - Computer Systems : A Programmer's Perspective
- 
-### Technical Skills
-- **Languages:**  C,  C++,  Java,  Python,  JavaScript,  Shell
-- **Systems/Tools/Frameworks:** Linux , Windows, Git, SQL
-- **Interests:** Operating Systems • Compilers • Networking • Machine Learning • Application Development • Home Labbing
+Recent graduate with a passion for low-level systems and full-stack development. Currently building trading infrastructure from the ground up — designing low-latency matching engines in C++, middleware services in Java, and modern frontends in React. Interested in how high-performance systems are architected and optimized at scale.
 
- 
-### How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/alec-muczynski-104034288)
-- [Portfolio](https://alecmucz.github.io)
+### What I'm Building
+
+**LedgerEngine** — Market simulator for testing trading strategies against live conditions
+
+`C++` `Java` `React` `FIX Protocol` `PostgreSQL` `Docker`
+
+### What I'm Reading
+- Designing Data-Intensive Applications
+- Computer Systems: A Programmer's Perspective
+
+### Skills
+**Languages:** C, C++, Java, Python, TypeScript  
+**Tools:** Linux, Git, Docker, PostgreSQL  
+**Focus:** Low-Latency Systems • Distributed Architecture • Systems Programming
+
+### Let's Connect
+[LinkedIn](https://www.linkedin.com/in/alec-muczynski-104034288) • [Portfolio](https://alecmucz.github.io)
